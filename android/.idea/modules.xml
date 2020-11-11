@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speechtotext.iml" filepath="$PROJECT_DIR$/.idea/modules/speechtotext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/speechtotext.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/speechtotext.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1897325038/speechtotext.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/1897325038/speechtotext.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/272975419/speechtotext.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/272975419/speechtotext.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1676304255/speechtotext.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/1676304255/speechtotext.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-936560368/speechtotext.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/-936560368/speechtotext.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-456906106/speechtotext.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-456906106/speechtotext.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/42341182/speechtotext.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/42341182/speechtotext.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1605799625/speechtotext.expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1605799625/speechtotext.expo-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1546186230/speechtotext.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/1546186230/speechtotext.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1644745629/speechtotext.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1644745629/speechtotext.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1751250097/speechtotext.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1751250097/speechtotext.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1143729037/speechtotext.expo-sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/1143729037/speechtotext.expo-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-632059351/speechtotext.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/-632059351/speechtotext.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1011686312/speechtotext.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1011686312/speechtotext.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1552260412/speechtotext.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1552260412/speechtotext.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-52562919/speechtotext.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-52562919/speechtotext.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/651858244/speechtotext.react-native-voice.iml" filepath="$PROJECT_DIR$/.idea/modules/651858244/speechtotext.react-native-voice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2023815685/speechtotext.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-2023815685/speechtotext.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1799417183/speechtotext.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1799417183/speechtotext.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-503357875/speechtotext.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-503357875/speechtotext.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/618914239/speechtotext.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/618914239/speechtotext.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/640615185/speechtotext.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/640615185/speechtotext.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1047646234/speechtotext.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1047646234/speechtotext.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/541165776/speechtotext.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/541165776/speechtotext.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1642239991/speechtotext.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1642239991/speechtotext.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1683406099/speechtotext.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1683406099/speechtotext.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/359565492/speechtotext.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/359565492/speechtotext.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1595342105/speechtotext.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/1595342105/speechtotext.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/721377001/speechtotext.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/721377001/speechtotext.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/861792653/speechtotext.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/861792653/speechtotext.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>
